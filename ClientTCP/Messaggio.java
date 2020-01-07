@@ -13,7 +13,7 @@ package clientTCP;
 
 /**
  *
- * @author Guidetti
+ * @author Rega
  */
 import java.net.*;
 import java.io.*;
