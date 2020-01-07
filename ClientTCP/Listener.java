@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Guidetti
+ * @author Rega
  */
 class Listener implements Runnable {
   private Socket client;
